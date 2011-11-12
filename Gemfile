@@ -7,8 +7,6 @@ gem 'rails', '3.1.0'
 
 gem 'pg'
 
-#gem 'sqlite3'
-
 gem "devise", ">= 1.4.7"
 
 # Gems used only for assets and not required
