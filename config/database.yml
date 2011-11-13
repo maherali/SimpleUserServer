@@ -43,7 +43,7 @@ test:
   encoding: unicode
   database: fg_test
   pool: 5
-  username: fg
+  username: ali
   password:
 
 production:
