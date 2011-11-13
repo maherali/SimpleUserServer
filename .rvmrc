@@ -1,4 +1,4 @@
 rvm use 1.9.2@3.1
-#export PATH="`pwd`/bin:$PATH"
-#alias bi="bundle install --binstubs"
+export PATH="`pwd`/bin:$PATH"
+
 
